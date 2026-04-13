@@ -8,7 +8,7 @@
   "server": {
     "ip": "maroc_craft.aternos.me",
     "port": 41515,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
