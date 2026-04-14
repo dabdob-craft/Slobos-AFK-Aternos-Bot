@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maroc_craft.aternos.me",
+    "ip": "tango.aternos.host",
     "port": 41515,
     "version": "1.21.1",
     "try-creative": false
