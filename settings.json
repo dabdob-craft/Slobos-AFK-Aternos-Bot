@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maroc_craft.aternos.me",
-    "port": 41515,
+    "ip": "wlad9esm.aternos.me",
+    "port": 19512,
     "version": "1.21.1",
     "try-creative": false
   },
